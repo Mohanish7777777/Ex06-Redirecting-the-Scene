@@ -36,8 +36,8 @@ Print the Output and end the program.
 
 ## Program :
 
-### DEVELOPED BY: ABRIN NISHA A
-### REGISTER NUMBER : 212222230005
+### DEVELOPED BY: Mohanish K
+### REGISTER NUMBER : 212222100028
 
 ## CUBE PLAYER :
 
